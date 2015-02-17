@@ -1,4 +1,4 @@
 Solid Code Class
 ================
 
-My work for CS 5959.
+My selected work from CS 5959.
