@@ -1,4 +1,4 @@
-solid_code_class
+Solid Code Class
 ================
 
-shared files for U of Utah CS 5959: Writing Solid Code
+My work for CS 5959.
